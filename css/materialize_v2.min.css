@@ -1,7 +1,5 @@
 /*!
- * Materialize v0.97.8 (http://materializecss.com)
- * Copyright 2014-2015 Materialize
- * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
+ * Custom modification of Materialize
  */
 .materialize-red {
     background-color: #e51c23 !important
@@ -7152,6 +7150,7 @@ button.picker__close:focus {
         margin-bottom: 5em
     }
 }
+<<<<<<< HEAD
 #viewport {
     background: #fff;
     width: 450px;
@@ -7168,3 +7167,5 @@ button.picker__close:focus {
     display: block;    
 }
 
+=======
+>>>>>>> origin/master
