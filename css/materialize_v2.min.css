@@ -1950,6 +1950,7 @@ video.responsive-video {
         white-space: nowrap
     }
 }
+
 .breadcrumb {
     font-size: 18px;
     color: rgba(255, 255, 255, 0.7)
@@ -7151,3 +7152,19 @@ button.picker__close:focus {
         margin-bottom: 5em
     }
 }
+#viewport {
+    background: #fff;
+    width: 450px;
+    padding: 5px;
+    position: relative;
+}
+#viewport img {
+    position: absolute;
+    top: 50%;
+    margin-top: -30px;  /* = image height div 2 */
+}
+#viewport span {
+    margin-left: 68px;  /* = image width + 8 */
+    display: block;    
+}
+
