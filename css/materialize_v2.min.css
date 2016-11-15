@@ -7158,8 +7158,7 @@ button.picker__close:focus {
 }
 #viewport img {
     position: absolute;
-    top: 50%;
-    margin-top: -30px;
+    top: 10%;
 }
 #viewport span {
     margin-left: 68px;
