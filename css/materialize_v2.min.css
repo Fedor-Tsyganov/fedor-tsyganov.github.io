@@ -7150,7 +7150,6 @@ button.picker__close:focus {
         margin-bottom: 5em
     }
 }
-<<<<<<< HEAD
 #viewport {
     background: #fff;
     width: 450px;
@@ -7160,12 +7159,9 @@ button.picker__close:focus {
 #viewport img {
     position: absolute;
     top: 50%;
-    margin-top: -30px;  /* = image height div 2 */
+    margin-top: -30px;
 }
 #viewport span {
-    margin-left: 68px;  /* = image width + 8 */
+    margin-left: 68px;
     display: block;    
 }
-
-=======
->>>>>>> origin/master
